@@ -1,10 +1,32 @@
 ### Medical Image Segmentation
 
-#### Part I  
+#### Part I  Optical Imaging; Endoscopy; Microscopy  
+
+#### :link:https://link.springer.com/book/10.1007/978-3-030-32239-7
+
+ :apple:Finished
+
+Evidence Localization for Pathology Images Using Weakly Supervised Learning
+
+Multiclass Deep Active Learning for Detecting Red Blood Cell Subtypes in Brightfield Microscopy
+
+Unsupervised Ensemble Strategy for Retinal Vessel Segmentation
+
+Uncertainty Guided Semi-supervised Segmentation of Retinal Layers in OCT Images
+
+Pancreatic Cancer Detection in Whole Slide Images Using Noisy Label Annotations
+
+Local and Global Consistency Regularized Mean Teacher for Semi- supervised Nuclei Classification
+
+:green_apple:Unfinished
+
+
 
 
 
 #### Part II  Image Segmentation
+
+#### :link:https://link.springer.com/book/10.1007/978-3-030-32245-8
 
 Searching Learning Strategy with Reinforcement Learning for 3D Medical Image Segmentation    
 
@@ -80,4 +102,33 @@ Automatic Paraspinal Muscle Segmentation in Patients with Lumbar Pathology Using
 
 Constrained Domain Adaptation for Segmentation
 
-#### Part III  
+#### Part III  Neuroimage Reconstruction and Synthesis
+
+#### :link:https://link.springer.com/book/10.1007/978-3-030-32248-9
+
+
+
+#### Part IV  Shape (Including Neuroimage Shape)
+
+#### :link:https://link.springer.com/book/10.1007/978-3-030-32251-9
+
+:apple:Finished
+
+Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis
+
+Uncertainty-Informed Detection of Epileptogenic Brain Malformations Using Bayesian Neural Networks
+
+Multi Scale Curriculum CNN for Context-Aware Breast MRI Malignancy Classification
+
+Deep Granular Feature-Label Distribution Learning for Neuroimaging-Based Infant Age Prediction
+
+Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube
+
+Bayesian Volumetric Autoregressive Generative Models for Better Semisupervised Learning
+
+DScGANS: Integrate Domain Knowledge in Training Dual-Path Semi- supervised Conditional Generative Adversarial Networks and S3VM for Ultrasonography Thyroid Nodules Classification
+
+#### Part V  Computer-Assisted Interventions
+
+#### :link:https://link.springer.com/book/10.1007/978-3-030-32254-0
+
